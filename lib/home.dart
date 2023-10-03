@@ -108,7 +108,7 @@ class _Home extends State<HomeT> {
 //    if (state == BluetoothState.off) {
 //      print("bluetooth is off");
 //    }
-
+ // asdasdasd
   }
 
   @override
